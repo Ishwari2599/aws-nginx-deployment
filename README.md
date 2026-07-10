@@ -25,3 +25,6 @@ sudo systemctl restart nginx
 - df -h (disk usage)
 - free -h (memory usage)
 - ps aux (running processes)
+
+## Bonus
+- Created a shell script (restart_nginx.sh) to restart Nginx with one command
